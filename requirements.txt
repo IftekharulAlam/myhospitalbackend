@@ -1,0 +1,7 @@
+asgiref
+Django
+django-cors-headers
+mysqlclient
+pillow
+sqlparse
+tzdata
